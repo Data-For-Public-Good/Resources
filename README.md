@@ -19,3 +19,4 @@
 - [R Graph Gallery](https://www.r-graph-gallery.com/): Collection of charts made with R, mostly using the tidyverse and ggplot2. Includes code to produce all sorts of data visualizations (boxplots, barplots, pie charts, time series, network graphs, maps, etc.).
 - [rOpenSci Packages](https://ropensci.org/packages/): Curated collection of open source packages in R.
 - [pdftools package](https://docs.ropensci.org/pdftools/): PDF text extraction package for R.
+- [Reading PDF files into R for Text Mining](https://data.library.virginia.edu/reading-pdf-files-into-r-for-text-mining/): Tutorial for using pdftools to read pdf files into R for text mining
