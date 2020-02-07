@@ -18,3 +18,4 @@
 - [R for Data Science](https://r4ds.had.co.nz/): Free online book to learn all aspects of doing data science in R.
 - [R Graph Gallery](https://www.r-graph-gallery.com/): Collection of charts made with R, mostly using the tidyverse and ggplot2. Includes code to produce all sorts of data visualizations (boxplots, barplots, pie charts, time series, network graphs, maps, etc.).
 - [rOpenSci Packages](https://ropensci.org/packages/): Curated collection of open source packages in R.
+- [pdftools package](https://docs.ropensci.org/pdftools/): PDF text extraction package for R.
